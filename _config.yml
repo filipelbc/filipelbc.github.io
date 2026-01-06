@@ -1,0 +1,22 @@
+title: Filipe LBC
+
+description: |
+  I'm a software engineer and this is my blog.
+
+baseurl: ""
+domain: filipelbc.github.io
+url: https://filipelbc.github.io
+
+linkedin_username: filipelbc
+github_username: filipelbc
+rss: rss
+google_analytics: false
+
+show_excerpts: true
+
+exclude:
+  - README.md
+
+theme: minima
+plugins:
+  - jekyll-feed
